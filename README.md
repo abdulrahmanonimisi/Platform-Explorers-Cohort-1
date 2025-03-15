@@ -35,7 +35,7 @@ Throughout this cohort you'll find many project tracks and use cases, so we enco
 2. **Describe the Problem** – Explain the issue or use case you addressed.
 3. **Share Your Solution**– Detail how you solved the problem in your GitHub repository.
 4. **Include Visuals** – Add screenshots or videos of your process.
-5. **Promote Your Work** – Post your use case on LinkedIn and Twitter, explaining the problem and your solution. Use relevant hashtags (#PlatformExplorers #PublicLearning #Recruiter, plus tech and career-specific tags). Tag all cohort coaches to maximize reach.
+5. **Promote Your Work** – Post your use case on LinkedIn and Twitter, explaining the problem and your solution, and add the link to your GitHub repository. Use relevant hashtags (#PlatformExplorers #PublicLearning #Recruiter, plus tech and career-specific tags). Tag Platform Explorers and all cohort coaches to maximize reach.
 
 <br> <br>
 
