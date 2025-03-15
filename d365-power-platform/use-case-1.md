@@ -4,7 +4,7 @@
 They company is unsure. They don’t know whether to use Power Platform or other applications. The CEO is asking for a recommendation but they need proof to justify the decision of using Power Platform.
 
 ## 🔍 Your Task: 
-Analyze the project task and determine the best solution.
+Analyze the [project task](https://github.com/PlatformExplorers/Platform-Explorers-Cohort-1/blob/main/d365-power-platform/d365%20power%20platform.md) and determine the best solution.
 
 
 | Requirement |
