@@ -38,6 +38,17 @@ Throughout this cohort you'll find many project tracks and use cases, so we enco
 5. **Promote Your Work** – Post your use case on LinkedIn and Twitter, explaining the problem and your solution. Use relevant hashtags (#PlatformExplorers #PublicLearning #Recruiter, plus tech and career-specific tags). Tag all cohort coaches to maximize reach.
 
 <br> <br>
+
+## Thank you to our Coaches:
+<ul>
+  <li> Juan Ojochemi Idowu</li>
+	<li>Judith Okonji</li>	
+	 <li> Rachel Irabor </li> 
+	<li> Sarah Anueyiagu </li>
+	<li>  Rita Oloruntofunmi Idowu</li>
+	<li>Emmanuel O. Itoje </li> 
+	</ul>
+
 > [!NOTE]
 > By engaging with these projects, you're taking a significant step toward practical mastery in your chosen field. Happy exploring!​
 >
