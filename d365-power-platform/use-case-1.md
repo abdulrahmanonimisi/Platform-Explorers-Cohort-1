@@ -9,7 +9,7 @@ Analyze the project task and determine the best solution.
 
 | Requirement |
 | ------------- |
-| Need a solution for customer order and employee request management  |
+| Need a solution for customer order and inventory management  |
 | Need automated workflows for approvals, notifications, and data syncing |
 | Need reporting and data visualization |
 | Need a structured, secure database |
