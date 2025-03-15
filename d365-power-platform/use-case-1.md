@@ -25,5 +25,5 @@ Based on the company needs:
 
 ## Submission of the task
 1. Create a presentation slide and give a Presentation on the next call 
-2. Week 1: Complete use case 1 and use case 2
+2. Week 1: Complete use case 1 
 3. Submit online by using the hashtags and tagging Platform Explorers and the coach
